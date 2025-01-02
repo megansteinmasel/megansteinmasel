@@ -1,8 +1,6 @@
 <h1>Hi, I'm Megan! 🙋🏻‍♀️ </h1>
 
-- 🔎 I’m currently working on [Network Traffic Analysis using Snort](https://github.com/megansteinmasel/snort-network-quality)
-
-- 👩🏻‍💻 My projects are available at [megansteinmasel.github.io](https://megansteinmasel.github.io/)
+- 🔎 I’m currently working on my [Design Portfolio](https://megansteinmasel.wixsite.com/megans-portfolio/portfolio)
 
 - 🤳🏻 Reach me at megansteinmasel@gmail.com
 
